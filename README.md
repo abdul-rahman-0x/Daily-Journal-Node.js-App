@@ -49,7 +49,7 @@ A simple command-line journal app built using **Node.js**. It helps you create, 
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/daily-journal-node.git
+git clone https://github.com/abdul-rahman-0x/daily-journal-node.git
 cd daily-journal-node
 ```
 
